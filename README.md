@@ -1,4 +1,4 @@
-# Human Detection API
+# Human Detection Application
 ![image](https://github.com/user-attachments/assets/e1d81cb1-4bcf-4938-85ea-662245afeb82)
 ![image](https://github.com/user-attachments/assets/2f8c155e-e521-472b-b4d3-032200efca77)
 
