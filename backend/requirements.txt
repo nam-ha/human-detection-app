@@ -1,0 +1,6 @@
+python-dotenv
+ultralytics
+fastapi
+uvicorn
+SQLAlchemy
+psycopg2
